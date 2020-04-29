@@ -17,6 +17,6 @@ Buka demo di : http://linx.epizy.com/demo.html
 
 Buka Panduan di : http://linx.epizy.com/panduan.html
 
-## License
+## Lisensi
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Dengan source code ini, anda dapat mendownload dan menggunakan nya secara bebas. jika anda developer anda bebas mengedit/ menggunakan sebagian atau seluruh source kode ini untuk keperluan anda tanpa ada biaya apapun.
